@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "conquer1.aternos.me",
+    "ip": "conquer13.aternos.me",
     "port": 13488,
     "version": "1.20.1",
     "try-creative": false
